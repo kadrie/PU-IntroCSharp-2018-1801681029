@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\bin\Debug\netcoreapp2.0\TheHiProgram.deps.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\bin\Debug\netcoreapp2.0\TheHiProgram.runtimeconfig.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\bin\Debug\netcoreapp2.0\TheHiProgram.runtimeconfig.dev.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\bin\Debug\netcoreapp2.0\TheHiProgram.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\bin\Debug\netcoreapp2.0\TheHiProgram.pdb
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\obj\Debug\netcoreapp2.0\TheHiProgram.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\obj\Debug\netcoreapp2.0\TheHiProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\obj\Debug\netcoreapp2.0\TheHiProgram.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\obj\Debug\netcoreapp2.0\TheHiProgram.AssemblyInfo.cs
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\obj\Debug\netcoreapp2.0\TheHiProgram.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029-master\PUIntroHomework\TheHiProgram\obj\Debug\netcoreapp2.0\TheHiProgram.pdb
