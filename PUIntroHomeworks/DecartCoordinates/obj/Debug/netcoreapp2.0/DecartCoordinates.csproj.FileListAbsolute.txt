@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\DecartCoordinates\obj\Debug\netcoreapp2.0\DecartCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\DecartCoordinates\obj\Debug\netcoreapp2.0\DecartCoordinates.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\DecartCoordinates\obj\Debug\netcoreapp2.0\DecartCoordinates.AssemblyInfo.cs

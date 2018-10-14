@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\bin\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.deps.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\bin\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.runtimeconfig.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\bin\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.runtimeconfig.dev.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\bin\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\bin\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.pdb
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\obj\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\obj\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\obj\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.AssemblyInfo.cs
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\obj\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\obj\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.pdb
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\Travel2TheSunWithSoundSpeedInWater\obj\Debug\netcoreapp2.0\Travel2TheSunWithSoundSpeedInWater.csprojResolveAssemblyReference.cache

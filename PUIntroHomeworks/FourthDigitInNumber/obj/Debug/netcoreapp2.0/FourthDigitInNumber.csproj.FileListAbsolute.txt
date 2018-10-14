@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\bin\Debug\netcoreapp2.0\FourthDigitInNumber.deps.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\bin\Debug\netcoreapp2.0\FourthDigitInNumber.runtimeconfig.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\bin\Debug\netcoreapp2.0\FourthDigitInNumber.runtimeconfig.dev.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\bin\Debug\netcoreapp2.0\FourthDigitInNumber.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\bin\Debug\netcoreapp2.0\FourthDigitInNumber.pdb
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\obj\Debug\netcoreapp2.0\FourthDigitInNumber.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\obj\Debug\netcoreapp2.0\FourthDigitInNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\obj\Debug\netcoreapp2.0\FourthDigitInNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\obj\Debug\netcoreapp2.0\FourthDigitInNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\obj\Debug\netcoreapp2.0\FourthDigitInNumber.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\FourthDigitInNumber\obj\Debug\netcoreapp2.0\FourthDigitInNumber.pdb

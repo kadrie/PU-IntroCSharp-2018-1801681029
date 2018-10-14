@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\bin\Debug\netcoreapp2.0\WeightInTheSolarSystem.deps.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\bin\Debug\netcoreapp2.0\WeightInTheSolarSystem.runtimeconfig.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\bin\Debug\netcoreapp2.0\WeightInTheSolarSystem.runtimeconfig.dev.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\bin\Debug\netcoreapp2.0\WeightInTheSolarSystem.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\bin\Debug\netcoreapp2.0\WeightInTheSolarSystem.pdb
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\obj\Debug\netcoreapp2.0\WeightInTheSolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\obj\Debug\netcoreapp2.0\WeightInTheSolarSystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\obj\Debug\netcoreapp2.0\WeightInTheSolarSystem.AssemblyInfo.cs
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\obj\Debug\netcoreapp2.0\WeightInTheSolarSystem.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\obj\Debug\netcoreapp2.0\WeightInTheSolarSystem.pdb
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\WeightInTheSolarSystem\obj\Debug\netcoreapp2.0\WeightInTheSolarSystem.csprojResolveAssemblyReference.cache
