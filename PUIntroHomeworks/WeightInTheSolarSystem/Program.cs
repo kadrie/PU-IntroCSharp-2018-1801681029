@@ -6,13 +6,7 @@ namespace WeightInTheSolarSystem
     {
         static void Main(string[] args)
         {
-            //napishete programa koqto izchislqva tegloto na chovek na vsqka edna ot planetite
-            //tegloto se opredelq po formulata weightOnPlanet = gravitationalRatio*weight
-            // където weight е собственото ви тегло а gravitationalRatio е константа за всяка планета
-            // gravitationalRationalOnEarth=1
-
-            //Venus=0.91 ; Mars=0.38 ; Jupiter=2.36 ; Saturn = 0.92 ; 
-
+        
             double gravitationalRatio;
             double weigthOnPlanet;
        
