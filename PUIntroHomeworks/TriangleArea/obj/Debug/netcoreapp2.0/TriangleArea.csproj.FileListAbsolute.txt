@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.deps.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.runtimeconfig.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.runtimeconfig.dev.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.pdb
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.AssemblyInfo.cs
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.pdb
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\Calculator\obj\Debug\netcoreapp2.0\Calculator.pdb

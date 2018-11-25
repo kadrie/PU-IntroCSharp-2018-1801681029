@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TextBombardment\obj\Debug\netcoreapp2.0\TextBombardment.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TextBombardment\obj\Debug\netcoreapp2.0\TextBombardment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TextBombardment\obj\Debug\netcoreapp2.0\TextBombardment.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\пу\c# uprajenie\PU-IntroCSharp-2018-1801681029\PUIntroHomeworks\PUIntroHomeworks\TextBombardment\obj\Debug\netcoreapp2.0\TextBombardment.AssemblyInfo.cs
